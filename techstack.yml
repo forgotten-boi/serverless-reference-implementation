@@ -2,7 +2,7 @@ repo_name: forgotten-boi/serverless-reference-implementation
 report_id: 83b951178d1360c672493eae3ea5d599
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T12:07:25+00:00'
+timestamp: '2024-02-29T19:45:39+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -159,7 +159,7 @@ tools:
   last_updated_by: Kirpa Singh
   last_updated_on: 2018-10-12 16:22:15.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
